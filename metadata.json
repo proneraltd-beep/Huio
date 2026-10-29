@@ -1,0 +1,6 @@
+{
+  "name": "SBS Midterm Student Result Portal",
+  "description": "Midterm assessment result portal for First Term 2026. Access student report sheets, score breakdowns, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
